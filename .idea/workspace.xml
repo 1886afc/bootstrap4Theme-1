@@ -27,10 +27,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="286" column="18" lean-forward="true" selection-start-line="286" selection-start-column="18" selection-end-line="286" selection-end-column="18" />
+            <state relative-caret-position="600">
+              <caret line="286" column="20" lean-forward="false" selection-start-line="286" selection-start-column="20" selection-end-line="286" selection-end-column="20" />
               <folding>
-                <element signature="e#14010#14016#0" expanded="true" />
+                <element signature="e#14062#14068#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,11 +156,6 @@
               <item name="bootstrap4Theme-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap4Theme-1" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="bootstrap4Theme-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bootstrap4Theme-1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -209,12 +204,12 @@
       <workItem from="1506634400991" duration="2635000" />
       <workItem from="1506637899413" duration="362000" />
       <workItem from="1506638278576" duration="12270000" />
-      <workItem from="1507223700229" duration="2196000" />
+      <workItem from="1507223700229" duration="2792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18509000" />
+    <option name="totallyTimeSpent" value="19105000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,7 +267,7 @@
         <state relative-caret-position="175">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="52" />
           <folding>
-            <element signature="e#14010#14016#0" expanded="true" />
+            <element signature="e#14062#14068#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -298,7 +293,7 @@
         <state relative-caret-position="350">
           <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
           <folding>
-            <element signature="e#14010#14016#0" expanded="true" />
+            <element signature="e#14062#14068#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -393,10 +388,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="286" column="18" lean-forward="true" selection-start-line="286" selection-start-column="18" selection-end-line="286" selection-end-column="18" />
+        <state relative-caret-position="600">
+          <caret line="286" column="20" lean-forward="false" selection-start-line="286" selection-start-column="20" selection-end-line="286" selection-end-column="20" />
           <folding>
-            <element signature="e#14010#14016#0" expanded="true" />
+            <element signature="e#14062#14068#0" expanded="true" />
           </folding>
         </state>
       </provider>
