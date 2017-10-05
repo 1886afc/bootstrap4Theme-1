@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="efa816af-b959-4efd-be2b-208b47e4df42" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,13 +24,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="52" />
+            <state relative-caret-position="333">
+              <caret line="286" column="18" lean-forward="true" selection-start-line="286" selection-start-column="18" selection-end-line="286" selection-end-column="18" />
               <folding>
-                <element signature="e#13788#13794#0" expanded="true" />
+                <element signature="e#14010#14016#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
@@ -109,9 +109,9 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/scss/style.scss" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
@@ -209,12 +209,12 @@
       <workItem from="1506634400991" duration="2635000" />
       <workItem from="1506637899413" duration="362000" />
       <workItem from="1506638278576" duration="12270000" />
-      <workItem from="1507223700229" duration="1661000" />
+      <workItem from="1507223700229" duration="2196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17974000" />
+    <option name="totallyTimeSpent" value="18509000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,7 +272,7 @@
         <state relative-caret-position="175">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="52" />
           <folding>
-            <element signature="e#13788#13794#0" expanded="true" />
+            <element signature="e#14010#14016#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -298,7 +298,7 @@
         <state relative-caret-position="350">
           <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
           <folding>
-            <element signature="e#13788#13794#0" expanded="true" />
+            <element signature="e#14010#14016#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -338,16 +338,6 @@
     <entry file="file://$PROJECT_DIR$/src/img/explorer.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="52" />
-          <folding>
-            <element signature="e#13788#13794#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/style.scss">
@@ -398,6 +388,16 @@
         <state relative-caret-position="125">
           <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="286" column="18" lean-forward="true" selection-start-line="286" selection-start-column="18" selection-end-line="286" selection-end-column="18" />
+          <folding>
+            <element signature="e#14010#14016#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
