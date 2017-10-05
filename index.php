@@ -1,4 +1,4 @@
-<?php include_once("index.html"); ?>
+<?php include_once("src/index.html"); ?>
 /**
  * Created by PhpStorm.
  * User: 1886afc
